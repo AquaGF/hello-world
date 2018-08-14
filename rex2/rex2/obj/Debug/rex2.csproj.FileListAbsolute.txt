@@ -1,0 +1,11 @@
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\bin\Debug\rex2.exe.config
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\bin\Debug\rex2.exe
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\bin\Debug\rex2.pdb
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.csprojAssemblyReference.cache
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.Form1.resources
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.Properties.Resources.resources
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.csproj.GenerateResource.cache
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.csproj.CoreCompileInputs.cache
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.exe
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.pdb
+D:\ВЛАД\Projects VisualStudio\rex2\rex2\obj\Debug\rex2.Form2.resources
